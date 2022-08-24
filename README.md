@@ -3,5 +3,7 @@ This is a front-end web game. This game is extremely basic, and you just press a
 
 I added sounds to the game upon button pressing and gameover sound when the player loses the game. All the sound files are available in the sounds folder.
 
+#Site Link: https://sai-kumar-kanuri.github.io/Simon-Game/
+
 # Screenshot:
-![](https://sai-kumar-kanuri.github.io/Simon-Game/)
+![](/Simon%20Game.png)
